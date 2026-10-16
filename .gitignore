@@ -1,0 +1,17 @@
+**/node_modules
+**/package-lock.json
+**/pnpm-lock.yaml
+**/yarn.lock
+
+coverage
+
+**/.DS_Store
+**/._*
+
+**/*.pem
+
+**/.vs
+**/.vscode
+**/.idea
+
+dist
